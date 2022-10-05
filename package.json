@@ -15,6 +15,7 @@
     "@hookform/resolvers": "^2.9.8",
     "@lukeed/uuid": "^2.0.0",
     "@popperjs/core": "^2.11.6",
+    "@rehooks/local-storage": "^2.4.4",
     "@types/mime": "^3.0.1",
     "@types/react-datepicker": "^4.4.2",
     "byte-size": "^8.1.0",

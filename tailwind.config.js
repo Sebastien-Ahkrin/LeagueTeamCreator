@@ -3,7 +3,7 @@ module.exports = {
   presets: [
     require('@zakodium/tailwind-config')({
       colors: {
-        primary: 'violet',
+        primary: 'gray',
       },
     }),
   ],
