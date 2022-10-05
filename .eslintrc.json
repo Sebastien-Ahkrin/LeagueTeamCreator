@@ -1,3 +1,6 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next", "@zakodium/eslint-config/typescript-react"],
+  "rules": {
+    "@next/next/no-img-element": "off"
+  }
 }
